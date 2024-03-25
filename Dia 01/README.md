@@ -17,3 +17,17 @@ E isso é só análise numérica, uma análise mais profunda pode ser feita usan
 São muitas perguntas, mas acredito que teremos tempo e exercícios para isso.
 
 Anexado nesse reposítório está a planilha com os desafios resolvidos, se possível pegou outros DataSets para treinarmos.
+
+Nesse DataSet foram feitas algumas análises, como avaliação da variação das ações até o dia 26/01/2024, sendo que durante esse mesmo dia houve variações, logo temos variações no dia, na semana, no mês de Janeiro, no ano de 2024 e nos últimos 12 meses.
+
+À medida que se vai avaliando os resultados dos dados se pode inferir que apesar da variação diária ser bem variável, algo em torno de 50% variou para cima enquanto outra medida igual tiveram quedas, mas na variaçãos semanal e mensal todas variaram para cima, ou seja, tiveram mais ganhos que perdas, ao menos no período analisado.
+
+Com ajuda do Chat GPT pesquisamos o setor, segmento econômico, de cada empresa, claro que uma empresa pode deter mais de um Ticker, a sigla usada na Bolsa de Valores. Assim como a idade das empresas.
+
+O setor da economia no qual a empresa atua pode indicar quais variáveis globais a influenciam, se for industrias de base, como mineradoras e petrolíferas ou de trasnformação como siderúrgicas, fatores como guerras, disputas econômicas ou políticas podem afetar o acesso aos seus produtos, fazendo com que suas ações desvalorizem. Em empresas do setor agropecuário a época do ano, fatores climáticos e de pragas podem ser os indicadores de melhora ou piora do valor de suas ações.
+
+E o fator idade da empresa também afeta a confiança do investidor, empresas mais jovens podem ser mais arriscada, que não quer dizer que sejam ruins de se investir, mas que podem ter resultados bruscos, tanto para mais quanto que para menos. 
+
+Já empresas com mais idade, geralmente de mais de 50 anos, já são consolidadas, mais seguras e estáveis, podem gerar menores variações, em tempos tranquilos, mas dificilmente terão quedas, ainda mais quedas muito acentuadas, sendo indicadas para investidores mais conservadores e que buscam mais segurança do que rendimento em curto prazo.
+
+Com a ajuda do CHAT GPT e de outras IA pode-se facilitar o processo de análise, já que eles podem facilitar pesquisas exaustivas, apesar de ser recomendado uma verificação e facilitam na hora de criar fórmulas para as mais diversas áreas, o que demoraria alguns minutos, com uma IA de apoio leva poucos segundos.
