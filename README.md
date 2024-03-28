@@ -1,0 +1,1 @@
+Essa Imersão Python, oferecida pela Alura, é uma ótima oportunidade de aprender comandos em Python, exercitar minhas habilidades em programação, análise de dados, plotagem de gráficos com Python e de fazer um networking focado no mercado de Python, espero que ao final do evento eu possa apresentar um repositório rico de informações, bem escrito e descrito.
