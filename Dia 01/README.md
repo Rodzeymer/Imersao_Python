@@ -1,4 +1,4 @@
-# Imerção_Python_Dia_01
+# Imersão_Python_Dia_01
 
 Primeiro dia dessa imersão tão aguardada, e depois de dias lendo os conteúdos disponíveis para preparação nos deparamos com a primeira aula, e apesar de já usar Excel, Libreoffice e o Google Sheets a um tempo me perdi no começo, o mergulho foi muito rápido, ou eu que ainda estava com a cabeça em outros assuntos.
 
