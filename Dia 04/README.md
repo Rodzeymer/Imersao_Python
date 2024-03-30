@@ -1,1 +1,3 @@
-Criando o começo da Aula 04
+Começando essa Aula 04, achei que teríamos mais código, muito mais, mas o importante é fazer mais com menos, apesar do último gráfico ter sido feito de forma mais rápida, muito mais rápida, ainda gostei mais do gráfico interativo feito anteriormente, ainda mais que dá para especificar linhas de média móvel.
+
+Mas ficamos assim, Aula 04 concluída com Desafios resolvidos e ainda Desafios NG+ feitos!
